@@ -1,0 +1,13 @@
+{
+    "type": "module",
+    "name": "ic-auth-api",
+    "version": "1.0.0",
+    "description": "api for the impact center authentication service",
+    "main": "app.js",
+    "repository": "git@github.com:isongjosiah/ic-auth-api.git",
+    "author": "impact-center",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^16.3.1"
+    }
+}
